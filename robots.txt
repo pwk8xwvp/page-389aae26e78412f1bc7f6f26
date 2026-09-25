@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--watt-t29fi4r831j.com/sitemap.xml
